@@ -9,13 +9,13 @@ Patika.dev Kodluyoruz eğitimi kapsamında Html ödev-1
 -  [**_Back To The Future_**](https://www.imdb.com/title/tt0088763/)
 - Lord Of The Rings 
 ### 2. Dizi
-- **_Breaking Bad_**[https://www.imdb.com/title/tt0460681/?ref_=fn_al_tt_1] 
+- [**_Breaking Bad_**](https://www.imdb.com/title/tt0460681/?ref_=fn_al_tt_1) 
 - Supernaturals
 ### 3. Kitap
-- **_Fahrenheit 451_**[https://www.goodreads.com/book/show/13079982-fahrenheit-451] 
+- [**_Fahrenheit 451_**](https://www.goodreads.com/book/show/13079982-fahrenheit-451)
 - Brave New World
 ## Sevdiğim Filmler
-![](file:///C:/Users/THOZ/Desktop/e%C4%9Fitimfrontend/Html%20%C3%96dev-1/Html-dev-1-1/images/Back%20To%20The%20Future.jpg)
+!()[file:///C:/Users/THOZ/Desktop/e%C4%9Fitimfrontend/Html%20%C3%96dev-1/Html-dev-1-1/images/Back%20To%20The%20Future.jpg]
 ### Back to the Future
 ` Zamanda yolculuk temalı filmlerin atalarından olan ‘Geleceğe Dönüş’ hem yönetmeni Robert Zemeckis’in hem de dönem sinemasının şahlandığı anlardan biridir. Gösterime girdiği dönem insanlığını bir hayli heyecanlandıran ve kısa bir süre sonra kült mertebesine erişmiş, o güne kadar hep tv dizilerinde yer alan başrol oyuncusu Michael J. Fox'a da büyük ün getirmiştir. `
 
