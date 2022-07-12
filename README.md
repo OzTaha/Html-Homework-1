@@ -3,7 +3,19 @@ Patika.dev Kodluyoruz eğitimi kapsamında Html ödev-1
 # Taha Öztürk
 ## Hakkımda
 ` Merhaba, ben Taha Öztürk Antalya'da yaşıyorum. Bilim kurgu filmlerini izlemeyi, manga ve kitap okumayı ve gezmeyi seviyorum. Web geliştirme ile ilgileniyorum. Patika.dev kodluyoruz'un bu eğitim serisi sayesinde harika şeyler öğrendim ve öğrenmeye devam ediyorum.` 
+## İlgi Alanlarım
+### 1. Film
+* 
+-  *** Back To The Future [https://www.imdb.com/title/tt0088763/] ***
+- Lord Of The Rings 
+### 2. Dizi
+- *** Breaking Bad [https://www.imdb.com/title/tt0460681/?ref_=fn_al_tt_1] ***
+- Supernaturals
+### 3. Kitap
+- *** Fahrenheit 451 [https://www.goodreads.com/book/show/13079982-fahrenheit-451] ***
+- Brave New World
 ## Sevdiğim Filmler
+![](file:///C:/Users/THOZ/Desktop/e%C4%9Fitimfrontend/Html%20%C3%96dev-1/Html-dev-1-1/images/Back%20To%20The%20Future.jpg)
 ### Back to the Future
 ` Zamanda yolculuk temalı filmlerin atalarından olan ‘Geleceğe Dönüş’ hem yönetmeni Robert Zemeckis’in hem de dönem sinemasının şahlandığı anlardan biridir. Gösterime girdiği dönem insanlığını bir hayli heyecanlandıran ve kısa bir süre sonra kült mertebesine erişmiş, o güne kadar hep tv dizilerinde yer alan başrol oyuncusu Michael J. Fox'a da büyük ün getirmiştir. `
 
