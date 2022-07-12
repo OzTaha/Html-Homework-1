@@ -6,7 +6,7 @@ Patika.dev Kodluyoruz eğitimi kapsamında Html ödev-1
 ## İlgi Alanlarım
 ### 1. Film
 * 
--  (**_Back To The Future_**)[https://www.imdb.com/title/tt0088763/]
+-  [**_Back To The Future_**](https://www.imdb.com/title/tt0088763/)
 - Lord Of The Rings 
 ### 2. Dizi
 - **_Breaking Bad_**[https://www.imdb.com/title/tt0460681/?ref_=fn_al_tt_1] 
