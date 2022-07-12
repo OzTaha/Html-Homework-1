@@ -6,13 +6,13 @@ Patika.dev Kodluyoruz eğitimi kapsamında Html ödev-1
 ## İlgi Alanlarım
 ### 1. Film
 * 
--  *** Back To The Future ***[https://www.imdb.com/title/tt0088763/] 
+-  **_Back To The Future_**[https://www.imdb.com/title/tt0088763/] 
 - Lord Of The Rings 
 ### 2. Dizi
-- *** Breaking Bad ***[https://www.imdb.com/title/tt0460681/?ref_=fn_al_tt_1] 
+- **_Breaking Bad_**[https://www.imdb.com/title/tt0460681/?ref_=fn_al_tt_1] 
 - Supernaturals
 ### 3. Kitap
-- *** Fahrenheit 451 ***[https://www.goodreads.com/book/show/13079982-fahrenheit-451] 
+- **_Fahrenheit 451_**[https://www.goodreads.com/book/show/13079982-fahrenheit-451] 
 - Brave New World
 ## Sevdiğim Filmler
 ![](file:///C:/Users/THOZ/Desktop/e%C4%9Fitimfrontend/Html%20%C3%96dev-1/Html-dev-1-1/images/Back%20To%20The%20Future.jpg)
