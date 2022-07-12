@@ -15,7 +15,7 @@ Patika.dev Kodluyoruz eğitimi kapsamında Html ödev-1
 - [**_Fahrenheit 451_**](https://www.goodreads.com/book/show/13079982-fahrenheit-451)
 - Brave New World
 ## Sevdiğim Filmler
-![Back To The Future](images/Back To The Future.jpg)
+![Back To The Future](images/BackToTheFuture.jpg)
 ### Back to the Future
 ` Zamanda yolculuk temalı filmlerin atalarından olan ‘Geleceğe Dönüş’ hem yönetmeni Robert Zemeckis’in hem de dönem sinemasının şahlandığı anlardan biridir. Gösterime girdiği dönem insanlığını bir hayli heyecanlandıran ve kısa bir süre sonra kült mertebesine erişmiş, o güne kadar hep tv dizilerinde yer alan başrol oyuncusu Michael J. Fox'a da büyük ün getirmiştir. `
 
