@@ -1,4 +1,4 @@
-# Homework-1
+# Homework-2
 Patika.dev Kodluyoruz eğitimi kapsamında Html ödev-1
 # Taha Öztürk
 ## Hakkımda
