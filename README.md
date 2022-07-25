@@ -5,7 +5,6 @@ Patika.dev Kodluyoruz eğitimi kapsamında Html ödev-1
 ` Merhaba, ben Taha Öztürk Antalya'da yaşıyorum. Bilim kurgu filmlerini izlemeyi, manga ve kitap okumayı ve gezmeyi seviyorum. Web geliştirme ile ilgileniyorum. Patika.dev kodluyoruz'un bu eğitim serisi sayesinde harika şeyler öğrendim ve öğrenmeye devam ediyorum.` 
 ## İlgi Alanlarım
 ### 1. Film
-* 
 -  [**_Back To The Future_**](https://www.imdb.com/title/tt0088763/)
 - Lord Of The Rings 
 ### 2. Dizi
